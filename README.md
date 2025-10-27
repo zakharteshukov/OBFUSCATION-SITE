@@ -1,10 +1,10 @@
-# GENERAL-SITE
+# OBFUSCATION-SITE
 
-General purpose website project.
+Code obfuscation and transformation project.
 
 ## Overview
 
-This is a general-purpose website repository.
+This repository contains tools and utilities for code obfuscation, source code transformation, and related security tools.
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ npm run dev
 ## Project Structure
 
 ```
-GENERAL-SITE/
+OBFUSCATION-SITE/
 ├── public/          # Static assets and files
 ├── src/             # Source code
 ├── dist/            # Build output
